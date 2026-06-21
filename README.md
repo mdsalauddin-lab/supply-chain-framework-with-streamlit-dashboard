@@ -16,7 +16,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-**Live Demo:** [https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app)
+**Live Demo:** [[https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://alishamart-supply-chain-ai-framework-dashboard.streamlit.app/)]
 
 ---
 
@@ -930,7 +930,7 @@ The Streamlit dashboard provides enterprise-grade interactive analytics with the
 - Performance comparison across all four models
 
 ### 6. Deployment Architecture
-- **Live Demo URL:** https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app
+- **Live Demo URL:** [https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://alishamart-supply-chain-ai-framework-dashboard.streamlit.app/)
 - **Containerization:** Docker-ready
 - **Requirements:** requirements.txt with all dependencies
 - **Environment:** Python 3.8+, Streamlit 1.28+
