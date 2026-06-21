@@ -15,8 +15,10 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-**Live Demo:** [[https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://alishamart-supply-chain-ai-framework-dashboard.streamlit.app/)]
+**Live Demo:** [https://alishamart-supply-chain-ai-framework-dashboard.streamlit.app/]
 
 ---
 
@@ -1398,14 +1400,14 @@ python scripts/monitor.py --config configs/monitor_config.yaml
 ```
 
 ### Live Demo
-**Access the live Streamlit dashboard:** [https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app)
+**Access the live Streamlit dashboard:** [[https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://alishamart-supply-chain-ai-framework-dashboard.streamlit.app/)]
 
 ---
 
 
 ### License: MIT License
 
-Copyright (c) 2024 [[Your Name/Organnizatio](https://github.com/mdsalauddin-lab)]
+Copyright (c) 2024 [https://www.linkedin.com/in/md-salauddin95/]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1436,11 +1438,12 @@ SOFTWARE.
 - Streamlit team for the interactive dashboard framework
 - Plotly team for the interactive visualization library
 
-**Additional Resources:**
-- Kaggle Notebook: [[Link to Kaggle](https://www.kaggle.com/code/mdsalauddin95/alishamart-supply-chain-ai-framework)]
-- Colab Notebook: [[Link to Colab](https://colab.research.google.com/drive/1PYOwci-QDpMO2pol43XdmvcZim8NdQ0J)]
-- Streamlit Dashboard: [https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app](https://mdsalauddin-lab-supply-chain-framework-with-streamlit-dashboard.streamlit.app)
-
 ---
 
+## 📞 Contact
+- **Author**: Md Salauddin
+- **LinkedIn**: [https://www.linkedin.com/in/md-salauddin95/]
+- **Email**: mskpatwary99@gmail.com
+  
+____
 *Built with ❤️ for resilient supply chains, data-driven enterprises, and interactive decision intelligence.*
