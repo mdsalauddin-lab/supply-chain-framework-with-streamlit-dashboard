@@ -1,7 +1,0 @@
-Test,Value,Pass
-Friedman Test,0.0028512084304522568,Yes
-Nemenyi CD,2.0975797164033283,N/A
-Cohen's d,0.0,No
-Effect Size,Negligible Effect,N/A
-A/B Test p-value,7.066042680734127e-289,Yes
-Fairness p-value,3.043792706587106e-29,No
